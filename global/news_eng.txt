@@ -1,0 +1,4 @@
+<span color="white">Hello!
+<br>
+<br> If you found any bug in Quarmel Hub then report it <a color="#add8e6" href="https://cdn.discordapp.com/attachments/654230774152691733/759835717965709342/4426543e828b947b5801977c784cbc29.jpg">here</a>.
+</span>
