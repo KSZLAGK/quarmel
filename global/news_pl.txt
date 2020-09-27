@@ -1,0 +1,4 @@
+<span color="white">Hejo!
+<br>
+<br> Jeżeli znalazłeś jakiś błąd to możesz go zgłosić <a color="#add8e6" href="https://cdn.discordapp.com/attachments/654230774152691733/759835717965709342/4426543e828b947b5801977c784cbc29.jpg">tutaj</a>.
+</span>
